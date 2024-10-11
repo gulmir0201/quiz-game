@@ -1,0 +1,31 @@
+.mainContainer {
+  max-width: 800px;
+  margin: 20px;
+  text-align: center;
+  background-color: rgb(29, 15, 133);
+  border-radius: 20px;
+}
+h1, h2, h3, p {
+  color: aliceblue;
+}
+
+.options button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: rgb(155, 234, 207);
+  border: solid 1px grey;
+}
+
+.correct {
+  background-color: green;
+}
+
+.incorrect {
+  background-color: red;
+}
+
+.scoreSection {
+  margin-top: 20px;
+}
